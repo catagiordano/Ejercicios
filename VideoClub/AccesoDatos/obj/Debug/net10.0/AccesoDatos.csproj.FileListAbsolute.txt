@@ -1,0 +1,14 @@
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\bin\Debug\net10.0\AccesoDatos.deps.json
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\bin\Debug\net10.0\AccesoDatos.dll
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\bin\Debug\net10.0\AccesoDatos.pdb
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.sourcelink.json
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.dll
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\refint\AccesoDatos.dll
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll
+C:\Users\catag\OneDrive\Desktop\Github-Practica\Cosas\Ejercicios\VideoClub\AccesoDatos\obj\Debug\net10.0\AccesoDa.B2719C34.Up2Date
